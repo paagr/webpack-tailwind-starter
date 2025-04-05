@@ -12,15 +12,15 @@ A lightweight frontend development starter with webpack and Tailwind CSS integra
 
 ## Prerequisites
 
-- Node.js (v14 or higher)
-- npm (v6 or higher)
+- Node.js (v18 or higher)
+- npm (v10 or higher)
 
 ## Getting Started
 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/webpack-tailwind-starter.git
+git clone https://github.com/paagr/webpack-tailwind-starter.git
 cd webpack-tailwind-starter
 ```
 
