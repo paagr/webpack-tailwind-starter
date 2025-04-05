@@ -62,40 +62,6 @@ webpack-tailwind-starter/
 └── README.md
 ```
 
-## Customizing Tailwind
-
-To customize Tailwind, create a `tailwind.config.js` file in the project root:
-
-```bash
-npx tailwindcss init
-```
-
-Then modify the generated configuration file according to your needs.
-
-## Adding Features
-
-### Adding JavaScript frameworks
-
-This starter kit can be extended with popular JavaScript frameworks:
-
-#### React
-
-```bash
-npm install react react-dom
-npm install -D babel-loader @babel/core @babel/preset-env @babel/preset-react
-```
-
-Update your webpack config to use Babel for JSX processing.
-
-#### Vue
-
-```bash
-npm install vue
-npm install -D vue-loader vue-template-compiler
-```
-
-Update your webpack config to use Vue loader.
-
 ## License
 
 MIT
